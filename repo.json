@@ -1,0 +1,9 @@
+{
+    "$meta": {
+        "name": "Azusa's Plugins",
+        "description": "Custom plugins for Revenge"
+    },
+    "local.username": {
+        "version": "1.0.0"
+    }
+}
