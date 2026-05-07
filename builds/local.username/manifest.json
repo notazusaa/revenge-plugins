@@ -1,0 +1,17 @@
+{
+  "spec": 3,
+  "type": "plugin",
+  "id": "local.username",
+  "version": "1.0.0",
+  "display": {
+    "name": "Local Username",
+    "description": "Visually change how your username appears in chat. Only visible to you — purely cosmetic.",
+    "authors": [
+      { "name": "Azusa" }
+    ]
+  },
+  "main": "index.js",
+  "extras": {
+    "bunny": {}
+  }
+}
